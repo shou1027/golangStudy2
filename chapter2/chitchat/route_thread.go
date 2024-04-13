@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/golangStudy2/chapter2/chitchat/data"
+	"github.com/shou1027/golangStudy2/chapter2/chitchat/data"
 )
 
 // GET /threads/new

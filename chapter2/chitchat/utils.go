@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/golangStudy2/chapter2/chitchat/data"
+	"github.com/shou1027/golangStudy2/chapter2/chitchat/data"
 )
 
 type Configuration struct {
